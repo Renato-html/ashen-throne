@@ -7,7 +7,7 @@ tempo certo e derrube o **Rei das Cinzas**. E, se ele renascer das próprias cin
 
 ## Baixar e jogar
 
-1. Vá em **[Releases](../../releases/latest)** e baixe `Instalar_AshenThrone_v1.1.0.exe`.
+1. Vá em **[Releases](../../releases)** e baixe `Instalar_AshenThrone_v1.2.0.exe`.
 2. Abra o instalador e clique em **Instalar**. Não precisa de administrador (funciona em computador de escola).
 3. Jogue pelo atalho **Ashen Throne** na Área de Trabalho ou no Menu Iniciar.
 
@@ -28,10 +28,13 @@ Os recordes ficam guardados, a não ser que você marque para apagar.
 | **Adagas Duplas** | Muito rápido, mais crítico e menos vida |
 | **Espada Larga** | Lento e devastador; o Giro Colossal acerta em volta |
 
-Quando o rei renasce, a Chama oferece a forma final: **Arqueiro** (flechas e tiro carregado) ou
-**Mago** (bolas de energia que perseguem o alvo e, carregando, uma rajada de 4 bolas).
+Quando o rei cai, ele renasce como mago e **leva a arena para os céus**: a luta final é numa ilha de
+pedra flutuando entre as estrelas. A Chama oferece a forma final: **Arqueiro** (flechas e tiro
+carregado), **Mago** (bolas de energia que perseguem o alvo e, carregando, uma rajada de 4 bolas) ou
+**Invocador** (raios e esqueletos que lutam por você).
 
 ![Forma final](imagens/forma_final.png)
+![Nos céus](imagens/ceus.png)
 ![Lutas](imagens/lutas.png)
 
 ## Controles
