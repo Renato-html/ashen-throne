@@ -7,7 +7,7 @@ tempo certo e derrube o **Rei das Cinzas**. E, se ele renascer das próprias cin
 
 ## Baixar e jogar
 
-1. Vá em **[Releases](../../releases)** e baixe `Instalar_AshenThrone_v1.2.0.exe`.
+1. Vá em **[Releases](../../releases)** e baixe `Instalar_AshenThrone_v1.3.0.exe`.
 2. Abra o instalador e clique em **Instalar**. Não precisa de administrador (funciona em computador de escola).
 3. Jogue pelo atalho **Ashen Throne** na Área de Trabalho ou no Menu Iniciar.
 
@@ -31,7 +31,8 @@ Os recordes ficam guardados, a não ser que você marque para apagar.
 Quando o rei cai, ele renasce como mago e **leva a arena para os céus**: a luta final é numa ilha de
 pedra flutuando entre as estrelas. A Chama oferece a forma final: **Arqueiro** (flechas e tiro
 carregado), **Mago** (bolas de energia que perseguem o alvo e, carregando, uma rajada de 4 bolas) ou
-**Invocador** (raios e esqueletos que lutam por você).
+**Lanceiro Celeste** (joga a lança, que atravessa o chefe e crava no chão, puxa de volta
+acertando de novo e salta até ela num rastro de luz).
 
 ![Forma final](imagens/forma_final.png)
 ![Nos céus](imagens/ceus.png)
@@ -47,6 +48,18 @@ carregado), **Mago** (bolas de energia que perseguem o alvo e, carregando, uma r
 | Curar | E | Y | Triângulo |
 | Aparar | L / botão direito | LB ou LT | L1 ou L2 |
 | Pausar | ESC | Start | Options |
+
+Não gostou de alguma tecla? Em **Configurações > Controles** dá para trocar qualquer tecla do teclado e
+qualquer botão do controle.
+
+## Novidades da 1.3.0
+
+- **Nova classe da forma final: Lanceiro Celeste**, no lugar do Invocador (veja acima).
+- **Controles personalizáveis**: troque teclas e botões em Configurações > Controles.
+- **Avisos dourados** nos golpes que dá para aparar (com um escudinho em cima do rei); os vermelhos são
+  só para esquivar.
+- **Uma carta de melhoria a cada 25 segundos** de luta, nas duas formas, com contagem "MELHORIA EM 3, 2, 1".
+- O menu principal agora muda de idioma junto com o resto do jogo.
 
 ## Idiomas
 
